@@ -6,7 +6,6 @@ import static org.junit.Assert.assertTrue;
 public class BatchJobAppTest {
     @Test
     public void testApp() {
-        //assertTrue(true);
-        assertFalse(false);
+        assertTrue(false);
     }
 }
